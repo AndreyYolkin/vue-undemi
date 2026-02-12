@@ -1,1 +1,1 @@
-console.log('[vue-demi] switch-cli script is not required anymore.')
+console.log('[vue-undemi] switch-cli script is not required anymore.')

@@ -1,0 +1,1 @@
+console.log('[vue-undemi] fix-cli script is not required anymore.')

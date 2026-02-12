@@ -1,1 +1,1 @@
-console.log('[vue-demi] postinstall script is not required anymore.')
+console.log('[vue-undemi] postinstall script is not required anymore.')

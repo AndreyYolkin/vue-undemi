@@ -22,6 +22,10 @@
     },
     "./*": "./*"
   },
+  "bin": {
+    "vue-demi-fix": "bin/vue-demi-fix.js",
+    "vue-demi-switch": "bin/vue-demi-switch.js"
+  },
   "files": [
     "lib"
   ],
