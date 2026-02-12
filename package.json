@@ -27,7 +27,9 @@
     "vue-demi-switch": "bin/vue-demi-switch.js"
   },
   "files": [
-    "lib"
+    "lib",
+    "bin",
+    "scripts"
   ],
   "scripts": {
     "release": "npx bumpp --tag --commit --push && npm publish"
